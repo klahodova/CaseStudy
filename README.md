@@ -1,2 +1,2 @@
-# CaseStudy
-Data analyses for e commerce store
+# Case Study
+Data analysis for e-commerce store - sample R script
